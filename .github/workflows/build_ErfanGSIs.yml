@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://741af198c5d3c612-9c974c46115a134f.jomoxc.com:9082/fs57cb1b02.a.bdydns.com/4113596937/Firmware/Flyme/meizu17_Pro/9.3.1.0/cn/20230115194440/e8acbce5/update.zip?r=ACBCNjZOXXYyUCI6HSAkAUUmUzVrEh4gOVx%2BNAUseSIBJlsxJAYXdhJVKToPbjsBAS5Dd3IrIis7Fml5WW9nSlh7VShqRkJrZwlhZl9wb1BcYAZpIEwTOjZaNWJFNCYACSBTaD8dAmY1TCQ%2FNSozHVVlAXV3RERpYAhmelpsZkkJNlJ%2FcBIUP21fYmJceGJSWG1VJSFBFj9iC2dvCCNvUAckUygmEBxoO0k1OQklOFU%3D&xcid=355d2587a0a840db874a035662a51c25&max_age=7776000&xcsched=1466217590&xclogid=10769943620529334496&xauzkey=mngx_2729ab9b72a8612c75587cd829dabd65_1732308816&f_ver=v1&auth_key=1732060416-0-0-abd95fff9f25694609ccd5df6278bb94
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
